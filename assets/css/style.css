@@ -53,10 +53,6 @@ body {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +71,20 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+.text-left {
+    font-size: 16px;
+    
+
+}
+
+.text-right {
+    font-size: 16px;
+}
+
+
+
+
 
 .content {
     width: 75%;
