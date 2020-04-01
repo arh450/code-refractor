@@ -52,7 +52,7 @@ body {
     text-decoration: none;
 }
 
-.hero {
+.image-container {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -136,30 +136,6 @@ p {
     font-size: 36px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -218,8 +194,6 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-
 
 .footer {
     padding: 30px;
